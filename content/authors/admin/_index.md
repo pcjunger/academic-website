@@ -1,6 +1,6 @@
 ---
 role: PhD student
-avatar_filename: content/authors/admin/perfil-copy-.jpg
+avatar_filename: perfil.jPG
 bio: ""
 interests: Microbial Ecology, Data Analysis, Aquatic Ecosystems
 social:
