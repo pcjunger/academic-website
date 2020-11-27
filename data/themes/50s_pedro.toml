@@ -17,9 +17,9 @@ menu_title = "#fff"
 #background = "#EAE7D6"
 #home_section_odd = "#EAE7D6"
 #home_section_even = "#EAE7D6"
-background = "#EFEFD0"
+#background = "#EFEFD0"
 # Home sections
 #home_section_odd = "rgb(255, 255, 255)"
 #home_section_even = "rgb(247, 247, 247)"
 
-font = "classic"
+#font = "classic"
