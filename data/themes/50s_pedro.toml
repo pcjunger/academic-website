@@ -5,7 +5,7 @@ name = "50s_pedro"
 light = true
 
 # Primary
-primary = "#F7C59F"
+primary = "#FFD400"
 
 # Menu
 menu_primary = "#3581B8"
