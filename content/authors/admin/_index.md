@@ -1,8 +1,8 @@
 ---
 role: PhD student
-avatar_filename: perfil-copy-.jpg
+avatar_filename: content/authors/admin/perfil-copy-.jpg
 bio: ""
-interests: []
+interests: Microbial Ecology, Data Analysis, Aquatic Ecosystems
 social:
   - icon: envelope
     icon_pack: fas
@@ -13,12 +13,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=zY3DU2gAAAAJ&hl=pt-BR
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/pcjunger
   - link: https://www.researchgate.net/profile/Pedro_Junger
     icon: researchgate
     icon_pack: ai
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/pcjunger
 organizations:
   - name: Universidade Federal de São Carlos
     url: ""
@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Ecology and Natural Resources
       institution: Universidade Federal de São Carlos
-      year: ""
+      year: "In progress"
     - course: MSc in Ecology
       institution: Universidade Federal do Rio de Janeiro
       year: 2016
