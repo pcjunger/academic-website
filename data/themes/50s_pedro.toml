@@ -5,7 +5,7 @@ name = "50s_pedro"
 light = true
 
 # Primary
-primary = "#FF6B35"
+primary = "#F7C59F"
 
 # Menu
 menu_primary = "#3581B8"
@@ -14,10 +14,10 @@ menu_text_active = "#FCB07E"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#EAE7D6"
-home_section_odd = "#EAE7D6"
-home_section_even = "#EAE7D6"
-#background = "#EFEFD0"
+#background = "#EAE7D6"
+#home_section_odd = "#EAE7D6"
+#home_section_even = "#EAE7D6"
+background = "#EFEFD0"
 # Home sections
 #home_section_odd = "rgb(255, 255, 255)"
 #home_section_even = "rgb(247, 247, 247)"
