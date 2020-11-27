@@ -81,9 +81,8 @@ email: ""
 
 #button for downloading the CV
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
 ---
-I am an ecologist by heart and trained as an aquatic microbial ecologist. At some point I got amazed about the fact that numerous tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a global scale. Since then I have been broadly interested in investigating the distribution, structure and functioning of aquatic microbial communities. I attemp to bring together ecological theory and omics data.
+I am an ecologist by heart and trained as an aquatic microbial ecologist. At some point I got amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a global scale. Since then I have been broadly interested in investigating the distribution, structure and functioning of aquatic microbial communities. For that I attempt to bring together ecological theory and omics data.
 
 I am a PhD student between in the Department of Hydrobiology (UFSCar, Brazil) and the Institut de Ciències del Mar (ICM-CSIC; Barcelona) where I am currently conducting a project on large-scale ecology & biogeography of marine planktonic communities using Metabarcoding, Metagenomics & Single Cell Genomics.
 
