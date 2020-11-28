@@ -18,7 +18,7 @@ subtitle = "Constantly learning and curiously looking for anwers on:"
   icon = "water"
   icon_pack = "fas"
   name = "Ecology"
-  description = "Aquatic Microbial Ecology - Community Ecology - Biogeography"
+  description = "Aquatic Microbial Ecology - Community Ecology - Biogeography - Biogeochemistry"
   
 [[feature]]
   icon = "dna"
