@@ -18,9 +18,7 @@ organizations:
   url: "http://www.lmpb.ufscar.br/"
 - name: Universidade Federal de São Carlos
   url: "https://www2.ufscar.br/"
-- name: Universidade Federal de São Carlos
-  url: "https://www2.ufscar.br/"
-- name: LogLab
+- name: log[lab]
   url: "http://www.log-lab.barcelona/"
 - name: Institut de Ciències del Mar
   url: "https://www.icm.csic.es/en"
