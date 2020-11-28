@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Main research areas"
-subtitle = ""
+title = "Main research areas & skills"
+subtitle = "Constantly learning and curiously looking for anwers on:"
 
 # Showcase personal skills or business features.
 # 
@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "ocean"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Ecology"
   description = "Aquatic Microbial Ecology - Community Ecology - Biogeography"
   
@@ -24,13 +24,13 @@ subtitle = ""
   icon = "dna"
   icon_pack = "fas"
   name = "Omics"
-  #description = "Amplicons - Metagenomics - SAGs - Bioinformatics"
+  description = "Amplicons - Metagenomics - SAGs - Bioinformatics"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data-analysis"
-  #description = "Ecological Models - Data visualization - Bioestatistics - R"
+  description = "Ecological Models - Data visualization - Bioestatistics - R"
 
 # Uncomment to use emoji icons.
 # [[feature]]
