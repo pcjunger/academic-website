@@ -16,7 +16,7 @@ subtitle = "Constantly learning and curiously looking for anwers on:"
 
 [[feature]]
   icon = "ocean"
-  icon_pack = "emogi"
+  icon_pack = "emoji"
   name = "Ecology"
   description = "Aquatic Microbial Ecology - Community Ecology - Biogeography"
   
