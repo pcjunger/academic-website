@@ -15,8 +15,8 @@ subtitle = "Constantly learning and curiously looking for anwers on:"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = ":ocean:"
-  icon_pack = "emoji"
+  icon = "water"
+  icon_pack = "fas"
   name = "Ecology"
   description = "Aquatic Microbial Ecology - Community Ecology - Biogeography"
   
