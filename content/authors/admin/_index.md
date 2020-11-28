@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student (UFSCar, visiting ICM-CSIC)
+role: PhD student (UFSCar|ICM-CSIC)
 
 # Organizations/Affiliations
 organizations:
