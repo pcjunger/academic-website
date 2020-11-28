@@ -10,12 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD student (UFSCar, visiting ICM-CSIC)
 
 # Organizations/Affiliations
 organizations:
+- name: LMPB
+  url: "http://www.lmpb.ufscar.br/"
 - name: Universidade Federal de São Carlos
-  url: ""
+  url: "https://www2.ufscar.br/"
+- name: Universidade Federal de São Carlos
+  url: "https://www2.ufscar.br/"
+- name: LogLab
+  url: "http://www.log-lab.barcelona/"
+- name: Institut de Ciències del Mar
+  url: "https://www.icm.csic.es/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: MSc in Ecology
@@ -32,11 +40,11 @@ education:
   courses:
     - course: PhD in Ecology and Natural Resources
       institution: Universidade Federal de São Carlos
-      year: "In progress"
-    - course: MSc in Ecology
+      year: "in progress"
+    - course: M.Sc. in Ecology
       institution: Universidade Federal do Rio de Janeiro
       year: 2016
-    - course: BSc in Ecology
+    - course: B.Sc. in Ecology
       institution: Universidade Federal do Rio Grande do Norte
       year: 2014
 
@@ -82,8 +90,6 @@ email: ""
 #button for downloading the CV
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
-I am an ecologist by heart and trained as an aquatic microbial ecologist. At some point I got amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a global scale. Since then I have been broadly interested in investigating the distribution, structure and functioning of aquatic microbial communities. For that I attempt to bring together ecological theory and omics data.
+I am an ecologist who got amazed about the fact that tiny creatures have shaped our planet and still play essential trophic & bigeochemical roles at a planetary scale. I generally attempt to bring together ecological theory and microbial omics data to investigate the distribution, structure and function of microbial communities inhabiting both marine & freshwater ecosystems.
 
-I am a PhD student between in the Department of Hydrobiology (UFSCar, Brazil) and the Institut de Ciències del Mar (ICM-CSIC; Barcelona) where I am currently conducting a project on large-scale ecology & biogeography of marine planktonic communities using Metabarcoding, Metagenomics & Single Cell Genomics.
-
-I truly believe in open science and team efforts.
+I am a PhD student between in the [Laboratory of Microbial Processes & Biodiversity](http://www.lmpb.ufscar.br/) (UFSCar, Brazil) and the [Ecology of Marine Microorganisms Research group](https://emm.icm.csic.es/), based at the [Institute de Ciències del Mar](https://www.icm.csic.es/en) (ICM-CSIC, Barcelona) where I am currently conducting a project on large-scale ecology & biogeography of marine planktonic communities using Metabarcoding, Metagenomics & Single Cell Genomics.
