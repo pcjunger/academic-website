@@ -16,7 +16,7 @@ subtitle = "Constantly learning and curiously looking for anwers on:"
 
 [[feature]]
   icon = "ocean"
-  icon_pack = "fas"
+  icon_pack = "emogi"
   name = "Ecology"
   description = "Aquatic Microbial Ecology - Community Ecology - Biogeography"
   
