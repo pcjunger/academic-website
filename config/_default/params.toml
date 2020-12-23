@@ -93,14 +93,14 @@ email = "pcjunger@ufscar.br"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rodovia Washington Luís, km 235", city = "São Carlos", region = "SP", postcode = "13565-905", country = "Brazil", country_code = "BR"}
+#address = {street = "Rodovia Washington Luís, km 235", city = "São Carlos", region = "SP", postcode = "13565-905", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-21.98357688797606", longitude = "-47.87853961727987"}
+#coordinates = {latitude = "-21.98357688797606", longitude = "-47.87853961727987"}
 
 # Directions for visitors to locate you.
-directions = "Laboratório de Biodiversidade e Processos Microbianos, Departamento de Hidrobologia"
+#directions = "Laboratório de Biodiversidade e Processos Microbianos, Departamento de Hidrobologia"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -112,10 +112,10 @@ directions = "Laboratório de Biodiversidade e Processos Microbianos, Departamen
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
