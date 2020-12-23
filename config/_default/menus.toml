@@ -17,19 +17,19 @@
   name = "Selected"
   parent="Publications"
   url = "#featured"
-  weight = 21
+  weight = 20
   
 [[main]]
   name = "Preprints"
   parent="Publications"
   url = "#preprints"
-  weight = 22
+  weight = 21
   
 [[main]]
   name = "Full list"
   parent="Publications"
   url = "#publications"
-  weight = 23
+  weight = 22
   
 [[main]]
   name = "Posts"
@@ -43,7 +43,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
+ [[main]]
+    name = "CV"
 #    url = "media/cv.pdf"
-#    weight = 70
+    weight = 70
