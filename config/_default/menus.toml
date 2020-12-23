@@ -23,22 +23,17 @@
   name = "Preprints"
   parent="Publications"
   url = "#preprints"
-  weight = 21
+  weight = 30
   
 [[main]]
   name = "Full list"
   parent="Publications"
   url = "#publications"
-  weight = 22
+  weight = 40
   
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 40
-  
-[[main]]
-  name = "Contact"
-  url = "#contact"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
@@ -46,4 +41,9 @@
  [[main]]
     name = "CV"
 #    url = "media/cv.pdf"
+    weight = 60
+    
+ [[main]]
+    name = "Contact"
+    url = "#contact"
     weight = 70
