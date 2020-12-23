@@ -12,29 +12,29 @@
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 30
-
-[[main]]
-  name = "Publications"
-  parent="publications"
-  url = "#featured"
-  weight = 20
   
 [[main]]
   name = "Selected"
-  parent="publications"
+  parent="Publications"
   url = "#featured"
   weight = 21
   
 [[main]]
   name = "Preprints"
-  parent="publications"
-  url = "#featured"
+  parent="Publications"
+  url = "#preprints"
   weight = 22
+  
+[[main]]
+  name = "Full list"
+  parent="Publications"
+  url = "#publications"
+  weight = 23
   
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 30
+  weight = 40
   
 [[main]]
   name = "Contact"
