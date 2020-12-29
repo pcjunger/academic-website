@@ -4,7 +4,7 @@ date = 2019-05-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Ciarlini Junger", "Fabíola da Costa Catombé Dantas", "Regina Lucia Guimarães Nobre", "Sarian Kosten", "Eduardo Martins Venticinque", "Fernando de Carvalho Araújo", "Hugo Sarmento", "Ronaldo Angelini", "Iagê Terra", "Andrievisk Gaudêncio", "Ng Haig They", "Vanessa Becker", "Camila Rodrigues Cabral", "Letícia Quesado", "Luciana Silva Carneiro", "Adriano Caliman", "André Megali Amado"]
+authors = ["Pedro C. Junger", "Fabíola C. C. Dantas", "Regina L. G. Nobre", "Sarian Kosten", "Eduardo M. Venticinque", "Fernando C. Araújo", "Hugo Sarmento", "Ronaldo Angelini", "Iagê Terra", "Andrievisk Gaudêncio", "Ng Haig They", "Vanessa Becker", "Camila R. Cabral", "Letícia Quesado", "Luciana S. Carneiro", "Adriano Caliman", "André M. Amado"]
 
 # Publication type.
 # Legend:
