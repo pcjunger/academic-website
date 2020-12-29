@@ -4,7 +4,7 @@ date = 2016-05-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rafael M. Almeida", "Gabriel N. Nobrega", "Pedro C. Junger", "Aline V. Figueiredo", "Anizio S Andrade", "Caroline G. B. de Moura", "Denise Tonetta", "Ernandes S Oliveira", "Fabiana Araújo", "Felipe Rust", "Juan M. Piñeiro-Guerra", "Jurandir R. Mendonça", "Leonardo R. Medeiros", "Lorena Pinheiro", "Marcela Miranda", "Mariana R. A. Costa", "Michaela L. Melo", "Regina L. G. Nobre", "Thiago Benevides", "Fábio Roland", "Joroen de Klein", "Nathan O. Barros", "Raquel Mendonça", "Vanessa Becker", "Vera L. M. Huszar", "Sarian Kosten]
+authors = ["Rafael M. Almeida", "Gabriel N. Nobrega", "Pedro C. Junger", "Aline V. Figueiredo", "Anizio S Andrade", "Caroline G. B. de Moura", "Denise Tonetta", "Ernandes S Oliveira", "Fabiana Araújo", "Felipe Rust", "Juan M. Piñeiro-Guerra", "Jurandir R. Mendonça", "Leonardo R. Medeiros", "Lorena Pinheiro", "Marcela Miranda", "Mariana R. A. Costa", "Michaela L. Melo", "Regina L. G. Nobre", "Thiago Benevides", "Fábio Roland", "Joroen de Klein", "Nathan O. Barros", "Raquel Mendonça", "Vanessa Becker", "Vera L. M. Huszar", "Sarian Kosten"]
 
 # Publication type.
 # Legend:
