@@ -22,7 +22,7 @@ publication = "*Frontiers in Microbiology 7 (2016) 717*"
 publication_short = "In *Front. Microbiol. 7 (2016) 717*"
 
 # Abstract and optional shortened version.
-abstract = "Recent studies from temperate lakes indicate that eutrophic systems tend to emit less carbon dioxide (CO<sub>2</sub>) and bury more organic carbon (OC) than oligotrophic ones, rendering them CO<sub>2</sub> sinks in some cases. However, the scarcity of data from tropical systems is critical for a complete understanding of the interplay between eutrophication and aquatic carbon (C) fluxes in warm waters. We test the hypothesis that a warm eutrophic system is a source of both CO<sub>2</sub> and CH<sub>4</sub> to the atmosphere, and that atmospheric emissions are larger than the burial of OC in sediments. This hypothesis was based on the following assumptions: (i) OC mineralization rates are high in warm water systems, so that water column CO<sub>2</sub> production overrides the high C uptake by primary producers, and (ii) increasing trophic status creates favorable conditions for CH<sub>4</sub> production. We measured water-air and sediment-water CO<sub>2</sub> fluxes, CH<sub>4</sub> diffusion, ebullition and oxidation, net ecosystem production (NEP) and sediment OC burial during the dry season in a eutrophic reservoir in the semiarid northeastern Brazil. The reservoir was stratified during daytime and mixed during nighttime. In spite of the high rates of primary production (4858 ± 934 mg C m<sup>-2</sup> d<sup>-1</sup>), net heterotrophy was prevalent due to high ecosystem respiration (5209 ± 992 mg C m<sup>-2</sup> d<sup>-1</sup>). Consequently, the reservoir was a source of atmospheric CO<sub>2</sub> (518 ± 182 mg C m<sup>-2</sup> d<sup>-1</sup>). In addition, the reservoir was a source of ebullitive (17 ± 10 mg C m<sup>-2</sup> d<sup>-1</sup>) and diffusive CH<sub>4</sub> (11 ± 6 mg C m<sup>-2</sup> d<sup>-1</sup>). OC sedimentation was high (1162 mg C m<sup>-2</sup> d<sup>-1</sup>), but our results suggest that the majority of it is mineralized to CO<sub>2</sub> (722 ± 182 mg C m<sup>-2</sup> d<sup>-1</sup>) rather than buried as OC (440 mg C m<sup>-2</sup> d<sup>-1</sup>). Although temporally resolved data would render our findings more conclusive, our results suggest that despite being a primary production and OC burial hotspot, the tropical eutrophic system studied here was a stronger CO<sub>2</sub> and CH<sub>4</sub> source than a C sink, mainly because of high rates of OC mineralization in the water column and sediments."
+abstract = "Recent studies from temperate lakes indicate that eutrophic systems tend to emit less carbon dioxide (CO2) and bury more organic carbon (OC) than oligotrophic ones, rendering them CO2 sinks in some cases. However, the scarcity of data from tropical systems is critical for a complete understanding of the interplay between eutrophication and aquatic carbon (C) fluxes in warm waters. We test the hypothesis that a warm eutrophic system is a source of both CO2 and CH4 to the atmosphere, and that atmospheric emissions are larger than the burial of OC in sediments. This hypothesis was based on the following assumptions: (i) OC mineralization rates are high in warm water systems, so that water column CO2 production overrides the high C uptake by primary producers, and (ii) increasing trophic status creates favorable conditions for CH4 production. We measured water-air and sediment-water CO2 fluxes, CH4 diffusion, ebullition and oxidation, net ecosystem production (NEP) and sediment OC burial during the dry season in a eutrophic reservoir in the semiarid northeastern Brazil. The reservoir was stratified during daytime and mixed during nighttime. In spite of the high rates of primary production (4858 ± 934 mg C m-2 d-1), net heterotrophy was prevalent due to high ecosystem respiration (5209 ± 992 mg C m-2 d-1). Consequently, the reservoir was a source of atmospheric CO2 (518 ± 182 mg C m-2 d-1). In addition, the reservoir was a source of ebullitive (17 ± 10 mg C m-2 d-1) and diffusive CH4 (11 ± 6 mg C m-2 d-1). OC sedimentation was high (1162 mg C m-2 d-1), but our results suggest that the majority of it is mineralized to CO2 (722 ± 182 mg C m-2 d-1) rather than buried as OC (440 mg C m-2 d-1). Although temporally resolved data would render our findings more conclusive, our results suggest that despite being a primary production and OC burial hotspot, the tropical eutrophic system studied here was a stronger CO<sub>2</sub> and CH<sub>4</sub> source than a C sink, mainly because of high rates of OC mineralization in the water column and sediments."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 tags = ["Limnology", "Semiarid", "CO2", "CH4", "NEP", Carbon Burial]
 
 # Links (optional).
-url_pdf = "http://www.sciencedirect.com/science/article/pii/S0048969719302657"
+url_pdf = "https://www.frontiersin.org/articles/10.3389/fmicb.2016.00717/full"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -57,7 +57,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.frontiersin.org/articles/10.3389/fmicb.2016.00717/full"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
