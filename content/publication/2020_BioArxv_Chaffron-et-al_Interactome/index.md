@@ -4,7 +4,7 @@ date = 2020-11-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Samuel Chaffron", "E. Delage", "M. Budinich", "D. Vintache", "N. Henry", "C.Nef", "M. Ardyna", "A. A. Zayed", "Pedro C. Junger", "Pierre E. Galand", "C. Lovejoy", "A. Murray", "Hugo Sarmento", "Tara Oceans coordinators", "Silvia Acinas", "M. Babin", "Daniele Iudicone", "O. Jaillon", "E. Karsenti", "P. Wincker", "L. Karp-Boss", "Michael B. Sullivan", "Chris Bowler", "Colombam de Vargas", "Damien Eveillard"]
+authors = ["Samuel Chaffron", "E. Delage", "M. Budinich", "D. Vintache", "N. Henry", "C.Nef", "M. Ardyna", "A. A. Zayed", "Pedro C. Junger", "Pierre E. Galand", "C. Lovejoy", "A. Murray", "Hugo Sarmento", "Tara Oceans coordinators", "Silvia Acinas", "M. Babin", "Daniele Iudicone", "O. Jaillon", "E. Karsenti", "P. Wincker", "L. Karp-Boss", "Matthew B. Sullivan", "Chris Bowler", "Colombam de Vargas", "Damien Eveillard"]
 
 # Publication type.
 # Legend:
